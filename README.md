@@ -1,0 +1,2 @@
+# utl_gather_macro_and_proc_report_for_quick_crosstabs_wit_meaninful_names
+Gather macro and proc report for quick ptoc report crosstab with meaninful names Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
